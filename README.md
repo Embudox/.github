@@ -152,7 +152,7 @@ inventoryQueue.process(async (job: Job<InventoryPayload>) => {
 
 ---
 
-## Diagrama de arquitectura
+## Diagrama de flujo
 
 ```mermaid
 flowchart TD
